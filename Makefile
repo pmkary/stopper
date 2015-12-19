@@ -3,7 +3,7 @@
 #    Copyright 2015 by Pouya Kary <k@arendelle.org>
 #
 
-build: main.cpp
+build: stopper.cpp
 	g++ -o stopper stopper.cpp -framework OpenGl -framework Glut
 
 run: build

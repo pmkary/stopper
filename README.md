@@ -1,5 +1,7 @@
-![](screen.png)
+[![](http://www.karyfoundation.org/developer/dead-repo/gitbadge.png)](http://www.karyfoundation.org/developer/dead-repo/)
+
 # Kary Stopper
+![](screen.png)
 
 It was to be a stupid little project for our Graphic 1 class, but well it seems I'm starting to like it! Its a funny game where you have to stop the green stuff coming to you and each time you don't you loose a life, after 4 life's you're all dead!
 
